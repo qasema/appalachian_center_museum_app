@@ -1,2 +1,2 @@
 # Appalachian-Center-Museum-APP
-Object Detection application for Appalachian Center Museum 
+Object Detection application for the Appalachian Center Museum Berea College
