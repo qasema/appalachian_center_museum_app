@@ -1,3 +1,6 @@
 # Appalachian-Center-Museum-APP
 Object Detection application for the Appalachian Center Museum Berea College
-https://www.youtube.com/watch?v=ziU_Kvy4bgY
+
+# Demo
+[![Alt text](https://example.com/thumbnail-image.png)](https://youtu.be/ziU_Kvy4bgY)
+
