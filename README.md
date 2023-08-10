@@ -3,6 +3,7 @@ Object Detection application for the Appalachian Center Museum Berea College
 
 # Demo
 Welcome to the demo section of our innovative Android/iOS application built using Flutter, Google APIs, Firebase, and the powerful TensorFlow library. We've picked a range of simple objects in this initial demonstration to demonstrate the power of our picture recognition algorithm.
+
 [![Alt text](image_722.png)](https://youtu.be/ziU_Kvy4bgY)
 
 # Looking Ahead
